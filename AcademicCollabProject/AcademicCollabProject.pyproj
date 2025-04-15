@@ -22,9 +22,30 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="AcademicCollabProject.py" />
+    <Compile Include="src\features.py" />
+    <Compile Include="src\model.py" />
+    <Compile Include="src\preprocessing.py" />
+    <Compile Include="src\visualize.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="data\raw\FHierarchy_20190919.tsv" />
+    <Content Include="data\raw\PAb_CS_20190919.tsv" />
+    <Content Include="data\raw\Papers_CS_20190919.tsv" />
+    <Content Include="data\raw\PAuAf_CS_20190919.tsv" />
+    <Content Include="data\raw\PF_CS_20190919.tsv" />
+    <Content Include="data\raw\PR_CS_20190919.tsv" />
+    <Content Include="data\raw\SeqName_CS_20190919.tsv" />
+    <Content Include="data\raw\Stats_CS_20190919.tsv" />
+    <Content Include="data\raw\vfi_vector.tsv" />
+    <Content Include="report.ipynb" />
+    <Content Include="requirements.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="data\pk\" />
+    <Folder Include="data\raw\" />
+    <Folder Include="data\" />
+    <Folder Include="src\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
