@@ -1,3 +1,5 @@
+This project analyzes academic collaboration patterns using raw data from the Open Academic Graph (OAG). It builds a coauthorship network from .tsv files, extracts edge-level features such as coauthorship frequency, citation impact, and publication year, and utilizes machine learning to classify strong vs. weak collaborations. 
+
 ## Setup Instructions
 
 1. **Install Requirements**
@@ -24,7 +26,7 @@
 
 **In your visual studio solution, it should look something like this:**
 
-![image](https://github.com/user-attachments/assets/2d883552-bee5-4241-9335-c8e6fb527936)
+![image](https://github.com/user-attachments/assets/5c44ee2b-a663-441b-ae91-486005a15da0)
 
 
 3. **Run the Code**
