@@ -31,3 +31,6 @@
 
    Open and execute the `main.ipynb` Jupyter notebook to run the full pipeline.
 ---
+**Sources:**
+Raw OAG data imported from:
+[OAG Data Source](https://github.com/acbull/pyHGT/tree/master?tab=readme-ov-file)
