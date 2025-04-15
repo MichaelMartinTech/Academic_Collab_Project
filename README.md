@@ -2,7 +2,7 @@
 
 1. **Install Requirements**
 
-   Install all necessary Python packages by running:
+   ***In AcademicCollabProject***, install all necessary Python packages by running:
 
    ```bash
    pip install -r requirements.txt
@@ -21,6 +21,11 @@
      [OAG Data on Google Drive](https://drive.google.com/drive/folders/1yDdVaartOCOSsQlUZs8cJcAUhmvRiBSz)
 
    - Place all downloaded files into the newly created `data/` directory.
+
+**In your visual studio solution, it should look something like this:**
+
+![image](https://github.com/user-attachments/assets/2d883552-bee5-4241-9335-c8e6fb527936)
+
 
 3. **Run the Code**
 
